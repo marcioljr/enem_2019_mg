@@ -16,4 +16,4 @@ processor        : AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD _
 byteorder        : little _
 LC_ALL           : None _
 LANG             : None _
-LOCALE           : pt_BR.cp1252 _
+LOCALE           : pt_BR.cp1252 _ 
